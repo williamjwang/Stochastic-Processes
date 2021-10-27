@@ -1,2 +1,3 @@
 # Stochastic-Processes
-Python simulations of various joint random variables and Markov chains
+
+This repository contains various programming assignments in Python in which we were asked to simulate various joint random variables and Markov chains.
